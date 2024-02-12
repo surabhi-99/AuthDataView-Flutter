@@ -74,29 +74,3 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
     );
   }
 }
-
-
-
-// User
-// Develop a simple mobile application using Flutter that meets the following requirements:
-
-// 1. User Authentication (20 points):
-
-// • Implement a user authentication system with at least two screens: login and registration.
-
-// • Use Firebase Authentication or any other authentication method of your choice.
-
-// A
-
-// 2. Data Display (20 points):
-
-// • Create a screen that fetches and displays data from a public API of your choice (e.g., GitHub API, JSONPlaceholder, etc.).
-
-// • Display the fetched data in a visually appealing way.
-
-// 3. State Management (20 points):
-
-// • Implement state management using Provider or Riverpod.
-
-// • Demonstrate the proper use of state management to update the Ul based on user interactions.
-
